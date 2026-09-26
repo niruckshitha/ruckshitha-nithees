@@ -1,0 +1,17 @@
+# Dependencies (reinstall with `npm install`)
+node_modules/
+
+# Build output (recreate with `npm run build`)
+dist/
+
+# Logs and editor/OS clutter
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local-only env overrides
+.env.local
+.env.*.local
