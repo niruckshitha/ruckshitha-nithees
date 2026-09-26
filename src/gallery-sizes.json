@@ -1,0 +1,42 @@
+{
+  "/photos/gallery/g1.webp": {
+    "w": 800,
+    "h": 1200
+  },
+  "/photos/gallery/g2.webp": {
+    "w": 900,
+    "h": 1200
+  },
+  "/photos/gallery/g3.webp": {
+    "w": 1200,
+    "h": 900
+  },
+  "/photos/gallery/g4.webp": {
+    "w": 960,
+    "h": 1200
+  },
+  "/photos/gallery/g5.webp": {
+    "w": 800,
+    "h": 1200
+  },
+  "/photos/gallery/g6.webp": {
+    "w": 900,
+    "h": 1200
+  },
+  "/photos/gallery/g7.webp": {
+    "w": 900,
+    "h": 1200
+  },
+  "/photos/gallery/g8.webp": {
+    "w": 800,
+    "h": 1200
+  },
+  "/photos/gallery/g9.webp": {
+    "w": 960,
+    "h": 1200
+  },
+  "/photos/gallery/g10.webp": {
+    "w": 900,
+    "h": 1200
+  }
+}
